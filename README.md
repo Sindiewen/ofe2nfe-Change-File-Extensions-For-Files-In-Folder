@@ -6,6 +6,6 @@ I made this so I don't need to manually change file extension's for each file if
 
 How to use:
 1. Copy the .sh file to your desired directory
-2. run command through terminal in that directory './ofe2nfe .old .new' with .old being the old file extension, and .new being the new file extension
+2. run command through your bash shell in that directory './ofe2nfe .old .new' with .old being the old file extension, and .new being the new file extension
 3.  ???
 4.  Profit
