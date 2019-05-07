@@ -4,7 +4,7 @@
 # program only takes in 2 parameters
 if [ $# -eq 2 ];
 then
-    # Gets the length of the string for the first param
+    # Gets the length of the file extention name with the period (.txt would be 4 characters for example)
     let strLen=$(echo -n $1 | wc -m)
     
     # To store the total number of files changed
